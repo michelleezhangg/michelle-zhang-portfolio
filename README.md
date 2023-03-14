@@ -1,4 +1,4 @@
-# project2
+# michelle-zhang-portfolio
 
 ## Project Deployment: 
 
