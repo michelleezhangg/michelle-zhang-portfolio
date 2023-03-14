@@ -187,7 +187,8 @@ footer ul {
 footer ul li {
     list-style-type: none;
     align-items: baseline;
-    width: auto;
+    width: fit-content;
+    padding: 0 10px;
 }
 
 footer a {
