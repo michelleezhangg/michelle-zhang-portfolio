@@ -1,6 +1,6 @@
 # michelle-zhang-portfolio
 
-## Project Deployment: 
+## Project Deployment: https://michelle-zhang-portfolio.netlify.app/
 
 ## Identifying Information
 * Name: Michelle Zhang
